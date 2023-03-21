@@ -25,3 +25,5 @@ python train_unet.py --data_dir your_data_path --model_dir your_model_path --mod
 >https://github.com/yhlleo/DeepCrack
 
 >https://github.com/ccny-ros-pkg/concreteIn_inpection_VGGF
+
+> https://github.com/khanhha/crack_segmentation
